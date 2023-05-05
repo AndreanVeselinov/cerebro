@@ -10,27 +10,20 @@ cerebro is an open source(MIT License) elasticsearch web admin tool built using 
 cerebro needs Java 11 or newer to run.
 
 ### Installation
-- Download from [https://github.com/lmenezes/cerebro/releases](https://github.com/lmenezes/cerebro/releases)
+- Download from [https://github.com/AndreanVeselinov/cerebro/releases](https://github.com/AndreanVeselinov/cerebro/releases)
 - Extract files
 - Run bin/cerebro(or bin/cerebro.bat if on Windows)
 - Access on http://localhost:9000
 
-### Chocolatey (Windows)
-
-You can install `cerebro` using [Chocolatey](https://chocolatey.org/):
-
-```sh
-choco install cerebro-es
-```
 
 Package creates windows service ```cerebro```.
 Access on http://localhost:9000
 
 ### Docker
 
-You can find the official docker images in the official [docker hub repo](https://hub.docker.com/r/lmenezes/cerebro/).
+You can find the official docker images in the official [docker hub repo](https://hub.docker.com/r/AndreanVeselinov/cerebro/).
 
-Visit [cerebro-docker](https://github.com/lmenezes/cerebro-docker) for further information. 
+Visit [cerebro-docker](https://github.com/AndreanVeselinov/cerebro-docker) for further information. 
 
 ### Configuration
 
