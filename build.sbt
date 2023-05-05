@@ -1,13 +1,13 @@
 name := "cerebro"
 
-maintainer := "Leonardo Menezes <leonardo.menezes@xing.com>"
+maintainer := "Andrean Veselinov <andrean.veselinov@experian.com>"
 
 packageSummary := "Elasticsearch web admin tool"
 
 packageDescription := """cerebro is an open source(MIT License) elasticsearch web admin tool built
   using Scala, Play Framework, AngularJS and Bootstrap."""
 
-version := "0.9.4"
+version := "0.9.5"
 
 scalaVersion := "2.13.4"
 
